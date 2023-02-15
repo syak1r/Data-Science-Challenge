@@ -6,6 +6,7 @@ Membuat 2 endpoint untuk kebutuhan cleaning text :
  
  ## Files
 - app.py : swagger ui app script
-- src/ : ource data
+- src/ : source data
+- docs/ : data yml untuk swagger-ui
   
 
